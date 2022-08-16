@@ -1,6 +1,7 @@
 Olá! meu nome é Pedro😎
 
--Estudante de Java e Javascript💻
+-Estudante de Java☕
+-Iniciante em Javascript💻
 -Meu endereço de email: pedroviniciusprofissional04@gamil.com📩
 
 <div align="center">
