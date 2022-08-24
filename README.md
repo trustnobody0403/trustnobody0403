@@ -2,7 +2,7 @@ Olá! meu nome é Pedro😎
 
 -Estudante de Java☕
 -Iniciante em Javascript💻
--Meu endereço de email: pedroviniciusprofissional04@gamil.com📩
+-Meu endereço de email: pedroviniciusprofissional04@gmail.com📩
 
 <div align="center">
   <a href="https://github.com/trustnobody0403">
